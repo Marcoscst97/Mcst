@@ -6,3 +6,5 @@ Repositorio teste curso git.
 Teste edição
 
 Teste para visualizar diff
+
+teste modificação
